@@ -1,6 +1,8 @@
 # gulp-css2jsmap
 
+convert css collection files to javascript map object 
 
+[![NPM](https://nodei.co/npm/gulp-css2jsmap.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/gulp-css2jsmap/)
 
 ## Getting Started
 
